@@ -1,0 +1,9 @@
+{
+	"name" : "Watermarker",
+	"description" : "Batch Watermark Images - Developed for Niva - Vansh",
+	"created" : "24/03/2021",
+	"completed" : "true",
+	"modules" : ["os", "sys", "Image"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "WA-24032021-003215"
+}
